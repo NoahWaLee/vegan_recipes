@@ -1,4 +1,6 @@
-vegan_recipes
-=============
+#vegan_recipes
 
-A Symfony project created on April 13, 2016, 10:47 am.
+###TODO
+####welcome page:
+* bg image
+* links to about and features
